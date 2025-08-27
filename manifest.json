@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Directional Focus Navigator",
+  "version": "1.0",
+  "description": "Điều hướng giữa input và button bằng Ctrl + mũi tên",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
