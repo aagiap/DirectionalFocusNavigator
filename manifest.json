@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Directional Focus Navigator",
   "version": "1.0",
-  "description": "Điều hướng giữa input và button bằng Ctrl + mũi tên",
+  "description": "Điều hướng giữa button bằng Ctrl + mũi tên. Ctrl + I để duyệt input.",
   "permissions": [],
   "content_scripts": [
     {
